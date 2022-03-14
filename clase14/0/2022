@@ -1,0 +1,17 @@
+<form action="server_post.php" method="post">
+            <div>
+                <label form="txtName">Product Name:</label>
+                <input id="txtName" name="name">               
+            </div>
+            <div>
+                <label form="txtDescription">Product description:</label>
+                <input id="txtDescription" name="description">
+            </div>
+            <div>
+                <label form="txtPrice">Product price:</label>
+                <input id="txtPrice" name="price">
+            </div>
+            <div>
+                <button type="submit">Send </button>
+            </div>
+        </form>
