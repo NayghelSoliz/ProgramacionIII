@@ -1,0 +1,15 @@
+C:\Users\usuariocc\source\repos\ExamenUnidad1\ExamenUnidad1\bin\Debug\ExamenUnidad1.exe.config
+C:\Users\usuariocc\source\repos\ExamenUnidad1\ExamenUnidad1\bin\Debug\ExamenUnidad1.exe
+C:\Users\usuariocc\source\repos\ExamenUnidad1\ExamenUnidad1\bin\Debug\ExamenUnidad1.pdb
+C:\Users\usuariocc\source\repos\ExamenUnidad1\ExamenUnidad1\obj\Debug\ExamenUnidad1.csproj.AssemblyReference.cache
+C:\Users\usuariocc\source\repos\ExamenUnidad1\ExamenUnidad1\obj\Debug\MainWindow.g.cs
+C:\Users\usuariocc\source\repos\ExamenUnidad1\ExamenUnidad1\obj\Debug\App.g.cs
+C:\Users\usuariocc\source\repos\ExamenUnidad1\ExamenUnidad1\obj\Debug\ExamenUnidad1_MarkupCompile.cache
+C:\Users\usuariocc\source\repos\ExamenUnidad1\ExamenUnidad1\obj\Debug\ExamenUnidad1_MarkupCompile.lref
+C:\Users\usuariocc\source\repos\ExamenUnidad1\ExamenUnidad1\obj\Debug\MainWindow.baml
+C:\Users\usuariocc\source\repos\ExamenUnidad1\ExamenUnidad1\obj\Debug\ExamenUnidad1.g.resources
+C:\Users\usuariocc\source\repos\ExamenUnidad1\ExamenUnidad1\obj\Debug\ExamenUnidad1.Properties.Resources.resources
+C:\Users\usuariocc\source\repos\ExamenUnidad1\ExamenUnidad1\obj\Debug\ExamenUnidad1.csproj.GenerateResource.cache
+C:\Users\usuariocc\source\repos\ExamenUnidad1\ExamenUnidad1\obj\Debug\ExamenUnidad1.csproj.CoreCompileInputs.cache
+C:\Users\usuariocc\source\repos\ExamenUnidad1\ExamenUnidad1\obj\Debug\ExamenUnidad1.exe
+C:\Users\usuariocc\source\repos\ExamenUnidad1\ExamenUnidad1\obj\Debug\ExamenUnidad1.pdb

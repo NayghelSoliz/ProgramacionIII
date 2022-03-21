@@ -1,0 +1,15 @@
+C:\Users\usuariocc\source\repos\Ej_Grafos\Ej_Grafos\bin\Debug\Ej_Grafos.exe.config
+C:\Users\usuariocc\source\repos\Ej_Grafos\Ej_Grafos\bin\Debug\Ej_Grafos.exe
+C:\Users\usuariocc\source\repos\Ej_Grafos\Ej_Grafos\bin\Debug\Ej_Grafos.pdb
+C:\Users\usuariocc\source\repos\Ej_Grafos\Ej_Grafos\obj\Debug\Ej_Grafos.csproj.AssemblyReference.cache
+C:\Users\usuariocc\source\repos\Ej_Grafos\Ej_Grafos\obj\Debug\MainWindow.g.cs
+C:\Users\usuariocc\source\repos\Ej_Grafos\Ej_Grafos\obj\Debug\App.g.cs
+C:\Users\usuariocc\source\repos\Ej_Grafos\Ej_Grafos\obj\Debug\Ej_Grafos_MarkupCompile.cache
+C:\Users\usuariocc\source\repos\Ej_Grafos\Ej_Grafos\obj\Debug\Ej_Grafos_MarkupCompile.lref
+C:\Users\usuariocc\source\repos\Ej_Grafos\Ej_Grafos\obj\Debug\MainWindow.baml
+C:\Users\usuariocc\source\repos\Ej_Grafos\Ej_Grafos\obj\Debug\Ej_Grafos.g.resources
+C:\Users\usuariocc\source\repos\Ej_Grafos\Ej_Grafos\obj\Debug\Ej_Grafos.Properties.Resources.resources
+C:\Users\usuariocc\source\repos\Ej_Grafos\Ej_Grafos\obj\Debug\Ej_Grafos.csproj.GenerateResource.cache
+C:\Users\usuariocc\source\repos\Ej_Grafos\Ej_Grafos\obj\Debug\Ej_Grafos.csproj.CoreCompileInputs.cache
+C:\Users\usuariocc\source\repos\Ej_Grafos\Ej_Grafos\obj\Debug\Ej_Grafos.exe
+C:\Users\usuariocc\source\repos\Ej_Grafos\Ej_Grafos\obj\Debug\Ej_Grafos.pdb
